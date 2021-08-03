@@ -25,7 +25,7 @@ If you want to contact me, please leave me a message!
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
   <div>
   
-<a href="https://suyeon-jung.github.io">
+<a href="https://velog.io/@suyeon-jung">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-83b81a?style=flat&logo=github&link=https://suyeon-jung.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
