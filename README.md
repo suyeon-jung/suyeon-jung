@@ -16,11 +16,6 @@
 
 
 
-Good day! I'm Suyeon Jung who is interested in being a **frontend developer.**
-
-
-
-
 ![suyeon-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeon-jung&show_icons=true&theme=vue)
 
 
